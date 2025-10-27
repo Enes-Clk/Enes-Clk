@@ -31,7 +31,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Aseprite-757196?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" />
-  <img src="https://img.shields.io/badge/Blender-FF7900?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
 ---
