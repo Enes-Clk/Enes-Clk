@@ -40,6 +40,6 @@
 
 ### 📫 Get In Touch
 
-- **LinkedIn:** [LinkedIn Kullanıcı Adınız] (Örn: `https://www.linkedin.com/in/ENES_ADINIZ/`)
-- **Email:** [E-posta adresiniz]
-- **Portfolio/Website:** [Varsa Web Siteniz]
+- **LinkedIn:** [(https://www.linkedin.com/in/enesclk] (Örn: `https://www.linkedin.com/in/ENES_ADINIZ/`)
+- **Email:** [enescelik238@gmail.com]
+- **Portfolio:** [https://nerveless.itch.io]
