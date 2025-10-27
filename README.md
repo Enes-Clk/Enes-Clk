@@ -1,8 +1,7 @@
 # Hello there! I'm Enes 👋🎮
 
 <p align="center">
-  <img src=![Image](https://github.com/user-attachments/assets/f03fea4b-7824-436b-85fb-11b987e84cc9)" alt="Coding GIF" width="300" />
-</p>
+![Image](https://github.com/user-attachments/assets/f03fea4b-7824-436b-85fb-11b987e84cc9)
 
 ### 🚀 About Me
 
